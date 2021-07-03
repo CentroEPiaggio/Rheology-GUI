@@ -15,7 +15,7 @@ class MainWindow(QMainWindow):
     def __init__(self, parent=None):
         super(MainWindow, self).__init__(parent)
 
-        self.pathToDir = os.path.dirname(os.path.realpath(__file__))
+        self.pathToDir = os.getcwd()
         self.pathToRestore = self.pathToDir+'\\config\\'
         self.pathToPrint = self.pathToRestore+'print\\'
         self.pathToMaterial = self.pathToRestore+'material\\'
