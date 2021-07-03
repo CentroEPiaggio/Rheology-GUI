@@ -9,4 +9,14 @@ A graphical user interface (GUI) to optimize the printing parameters for Extrusi
 The GUI is available as a portable application, just download the folder 'dist' from the repository.
 The folder contains an executable file (tested on Windows 10), which can be used to rune the application. The 'config' folder is used to store the configurations for each tab of the application.\
 
-**WARNING** Do not delete/move the 'config' folder, the GUI may not work properly!
+**WARNING**: Do not delete/move the 'config' folder, the GUI may not work properly!
+
+The software is also available at the following webpage: [https://rheo.herokuapp.com/](url)
+
+# Contacts
+For any info, please write to:\
+Carmelo De Maria: [mailto:carmelo.demaria@unipi.it](url)\
+Amedeo Franco Bonatti: [amedeofranco.bonatti@phd.unipi.it](url)\
+Irene Chiesa: [irene.chiesa@phd.unipi.it](url)\
+
+Check out our group at: https://www.centropiaggio.unipi.it/research/biofabrication.html
