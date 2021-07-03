@@ -11,7 +11,7 @@ The folder contains an executable file (tested on Windows 10), which can be used
 
 **WARNING**: Do not delete/move the 'config' folder, the GUI may not work properly!
 
-The software is also available at the following webpage: [https://rheo.herokuapp.com/](url)
+The software is also available at the following webpage: [https://rheo.herokuapp.com/form](url)
 
 # Contacts
 For any info, please write to:\
