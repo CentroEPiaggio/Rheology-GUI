@@ -16,8 +16,8 @@ The software is also available at the following webpage: [https://rheo.herokuapp
 # Contacts
 For any info, please write to:\
 \
-Carmelo De Maria: [carmelo.demaria@unipi.it](url)\
-Amedeo Franco Bonatti: [amedeofranco.bonatti@phd.unipi.it](url)\
-Irene Chiesa: [irene.chiesa@phd.unipi.it](url)
+Carmelo De Maria: [mailto](carmelo.demaria@unipi.it)\
+Amedeo Franco Bonatti: [mailto](amedeofranco.bonatti@phd.unipi.it)\
+Irene Chiesa: [mailto](irene.chiesa@phd.unipi.it)\
 
 Check out our group at: https://www.centropiaggio.unipi.it/research/biofabrication.html
