@@ -7,4 +7,5 @@ A graphical user interface (GUI) to optimize the printing parameters for Extrusi
 
 # How to install
 The GUI is available as a portable application, just download the folder 'app' from the repository.
-The folder contains an executable file (tested on Windows 10), which can be used to rune the application. The 'config' folder is used to store the configurations for each tab of the application. **WARNING** Do not delete/move this folder, the GUI may crash!
+The folder contains an executable file (tested on Windows 10), which can be used to rune the application. The 'config' folder is used to store the configurations for each tab of the application.
+**WARNING** Do not delete/move the 'config' folder, the GUI may not work properly!
