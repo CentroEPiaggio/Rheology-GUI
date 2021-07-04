@@ -16,8 +16,8 @@ The software is also available at the following webpage: <https://rheo.herokuapp
 # Contacts
 For any info, please write to:\
 \
-Amedeo Franco Bonatti: <amedeofranco.bonatti@phd.unipi.it>\
-Irene Chiesa: <irene.chiesa@phd.unipi.it>\
+Amedeo Franco Bonatti (preferred for any technical details): <amedeofranco.bonatti@phd.unipi.it>\
+Irene Chiesa (preferred for any technical details): <irene.chiesa@phd.unipi.it>\
 Giovanni Vozzi: <giovanni.vozzi@unipi.it>\
 Carmelo De Maria: <carmelo.demaria@unipi.it>
 
