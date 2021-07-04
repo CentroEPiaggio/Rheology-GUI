@@ -19,6 +19,6 @@ For any info, please write to:\
 Amedeo Franco Bonatti: <amedeofranco.bonatti@phd.unipi.it>\
 Irene Chiesa: <irene.chiesa@phd.unipi.it>\
 Giovanni Vozzi: <giovanni.vozzi@unipi.it>\
-Carmelo De Maria: <carmelo.demaria@unipi.it>\
+Carmelo De Maria: <carmelo.demaria@unipi.it>
 
 Check out our group at: https://www.centropiaggio.unipi.it/research/biofabrication.html
